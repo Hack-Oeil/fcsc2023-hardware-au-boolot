@@ -17,12 +17,12 @@ Origine : [Au Boolot](https://hackropole.fr/fr/challenges/hardware/fcsc2023-hard
 > http://localhost
 
 #### tentez 
-> nc au-boolot.cyrhades.fr:4000
+> nc au-boolot.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
